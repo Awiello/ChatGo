@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400945409920",
+    "firebase_url": "https://chatgo-eb18b.firebaseio.com",
+    "project_id": "chatgo-eb18b",
+    "storage_bucket": "chatgo-eb18b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400945409920:android:669ce3581c82d323",
+        "android_client_info": {
+          "package_name": "com.furiouskitten.amiel.chatgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400945409920-qmg3qlgim7k9qu2cphl7usucckr7t69s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgDyE75dn7GFqEf4iWwzD-0ebeBg2Vds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400945409920-qmg3qlgim7k9qu2cphl7usucckr7t69s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
